@@ -1,4 +1,4 @@
-# YouTube AnalysisProject
+# YouTube Analysis Project
 
 ## Introduction
 In this project, we will execute an end-to-end data engineering project from getting data to building final dashboard by managing, streamline, and perform analysis on the structured and semi-structured YouTube videos data based on the video categories and the trending metrics.
