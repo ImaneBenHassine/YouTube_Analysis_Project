@@ -24,6 +24,10 @@ We have this Client who wants to run some ad campaign online and they selected t
 - write script to ingest data incrementally and understand how to build a proper schema 
 - build a BI dashboard in Amazon QuickSight
 
+## Architecture 
+
+![architecture](https://github.com/ImaneBenHassine/YouTube_Analysis_Project/assets/26963240/6973ae8d-a55e-405f-b472-a8dded108834)
+
 ## Dataset
 
 This Kaggle dataset contains statistics (CSV files) on daily popular YouTube videos over the course of many months. There are up to 200 trending videos published every day for many locations. The data for each region is in its own file. 
